@@ -1,4 +1,5 @@
 This file contains Python code this is designed to price a European option under the standard Black-Scholes framework. These assumptions include:
+
 **(1)** The underlying stock follows a geometric Brownian motion.
 
 **(2)** Regarding the movement of the underlying asset, it is assumed that:
